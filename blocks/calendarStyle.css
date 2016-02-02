@@ -1,0 +1,19 @@
+table.calendar {border: none; width: 200px}
+tr.calendar {cursor: default; font: 11px; font-family: arial; text-align: center; height: 11px}
+th.calendar {font: 11px; font-family: arial; text-align: center; height: 20px; border: 1px solid gray; height: 16px; filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#EAEAEA', endColorStr='#BBBBBB', gradientType='0');
+	background: -webkit-gradient(linear, left top, right  top, from(#EAEAEA), to(#BBBBBB)); background: -moz-linear-gradient(left top, #EAEAEA, #BBBBBB);  }
+td.calendar {border: 1px dotted silver; filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#DFDFDF', gradientType='0');
+	background: -webkit-gradient(linear, left top, right  top, from(#FFFFFF), to(#DFDFDF)); background: -moz-linear-gradient(left top, #FFFFFF, #DFDFDF);  }
+td.calendar_today {border: 1px dotted silver; filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#FFCC00', gradientType='0');
+	background: -webkit-gradient(linear, left top, right  top, from(#FFFFFF), to(#FF6347)); background: -moz-linear-gradient(left top, #FFFFFF, #FF6347);  }
+table.calendar_active {filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#3399FF', gradientType='0');
+	background: -webkit-gradient(linear, left top, right  top, from(#FFFFFF), to(#3399FF)); background: -moz-linear-gradient(left top, #FFFFFF, #3399FF);  }
+
+table.calendar_button_0_1 {font: 11px; font-family: arial; text-align: center; border: 1px solid gray; height: 16px; filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#3399FF', gradientType='0');
+	background: -webkit-gradient(linear, left top, right  top, from(#FFFFFF), to(#3399FF)); background: -moz-linear-gradient(left top, #FFFFFF, #3399FF);  }
+table.calendar_button_0_2 {font: 11px; font-family: arial; text-align: center; filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#3399FF', gradientType='0'); border-top: 1px solid gray; border-bottom: 1px solid gray;
+	background: -webkit-gradient(linear, left top, right  top, from(#FFFFFF), to(#3399FF)); background: -moz-linear-gradient(left top, #FFFFFF, #3399FF);  }
+table.calendar_button_1_2 {font: 11px; font-family: arial; text-align: center; filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#FFCC00', gradientType='0'); border-top: 1px solid gray; border-bottom: 1px solid gray;
+	background: -webkit-gradient(linear, left top, right  top, from(#FFFFFF), to(#FFCC00)); background: -moz-linear-gradient(left top, #FFFFFF, #FFCC00);  }
+table.calendar_button_1_1 {font: 11px; font-family: arial; text-align: center; border: 1px solid gray; height: 16px; filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#FFCC00', gradientType='0');
+	background: -webkit-gradient(linear, left top, right  top, from(#FFFFFF), to(#FFCC00)); background: -moz-linear-gradient(left top, #FFFFFF, #FFCC00);  }
